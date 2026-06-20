@@ -16,12 +16,12 @@
 
 **One-liner (скопируй и выполни):**
 ```bash
-bash -c "$(curl -L https://raw.githubusercontent.com/Dev-PGVAA/FastXray_Telegram_MTProto/refs/heads/main/setup_vpn.sh)"
+bash -c "$(curl -L https://raw.githubusercontent.com/Dev-PGVAA/FastXray_MTProto/refs/heads/main/setup_vpn.sh)"
 ```
 
 **Или вручную:**
 ```bash
-wget https://raw.githubusercontent.com/Dev-PGVAA/FastXray_Telegram_MTProto/refs/heads/main/setup_vpn.sh
+wget https://raw.githubusercontent.com/Dev-PGVAA/FastXray_MTProto/refs/heads/main/setup_vpn.sh
 sudo bash setup_vpn.sh
 ```
 
