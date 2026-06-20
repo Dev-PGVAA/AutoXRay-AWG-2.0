@@ -116,7 +116,7 @@ collect_answers() {
   echo -e "${C_WHITE}${C_BOLD}Перед установкой — несколько вопросов.${C_RESET}"
   echo
 
-  LOCATION_TAG="$(ask "Как назвать этот сервер (страна/описание)" "🇳🇱 Netherlands")"
+  LOCATION_TAG="$(ask "Как назвать этот сервер (страна/описание)" "VPS")"
 
   echo
 
