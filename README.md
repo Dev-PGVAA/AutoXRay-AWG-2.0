@@ -16,12 +16,12 @@
 
 **Вариант 1: One-liner (быстро)**
 ```bash
-bash -c "$(curl -L https://raw.githubusercontent.com/Dev-PGVAA/AutoXRAY-AWG-2.0/refs/heads/main/AutoXRay.sh)"
+bash -c "$(curl -L https://raw.githubusercontent.com/Dev-PGVAA/FastXray_Telegram_MTProto/refs/heads/main/AutoXRay.sh)"
 ```
 
 **Вариант 2: Скачать и запустить вручную**
 ```bash
-wget https://raw.githubusercontent.com/Dev-PGVAA/AutoXRAY-AWG-2.0/refs/heads/main/AutoXRay.sh
+wget https://raw.githubusercontent.com/Dev-PGVAA/FastXray_Telegram_MTProto/refs/heads/main/AutoXRay.sh
 bash AutoXRAY.sh
 ```
 
