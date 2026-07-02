@@ -139,18 +139,6 @@ cat /usr/local/etc/xray/client_configs/README.txt
 
 ---
 
-## 📲 Приложения клиентов
-
-| ОС | Приложения |
-|---|---|
-| **Android** | v2RayTun, NekoBox, Hiddify, v2rayNG |
-| **iOS** | Streisand, Shadowrocket, Stash |
-| **Windows** | v2RayN, Nekoray, Hiddify, Clash for Windows |
-| **macOS** | Hiddify, Nekoray, V2Box |
-| **Linux** | Nekoray, Clash, v2rayA |
-
----
-
 ## 🛠️ Управление сервисами
 
 ```bash
@@ -248,19 +236,6 @@ sudo passwd username
 - Firewall по умолчанию закрывает входящий трафик, открывает только нужные порты
 - Все данные выводятся в финальном экране — **сохрани их перед закрытием терминала**
 - README также сохраняется на сервере для справки
-
----
-
-## 📄 Лицензия
-
-MIT
-
-## 🤝 Поддержка
-
-Если есть проблемы:
-1. Проверь логи: `/var/log/vpn-setup.log`
-2. Убедись что скрипт запущен от root
-3. Проверь наличие интернета и доступ к GitHub
 
 ---
 
